@@ -1,4 +1,4 @@
 Django>=4.2
-psycopg2-binary      # para PostgreSQL
-python-dotenv         # opcional para cargar .env
-gunicorn              # para despliegue si quieren
+mysqlclient
+python-dotenv
+gunicorn
